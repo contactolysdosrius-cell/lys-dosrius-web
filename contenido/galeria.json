@@ -365,6 +365,24 @@
       "titulo": "Pintura de pinzas de freno de automóvil",
       "descripcion": "",
       "categoria": "Coches"
+    },
+    {
+      "categoria": "Coches",
+      "titulo": "Pintura llantas",
+      "descripcion": "Antes",
+      "imagen": "/imagenes/whatsapp-image-2026-11-18-at-15.12.16.jpeg"
+    },
+    {
+      "categoria": "Coches",
+      "titulo": "Pintura llantas",
+      "descripcion": "Proceso",
+      "imagen": "/imagenes/whatsapp-image-2026-11-18-at-13.10.58.jpeg"
+    },
+    {
+      "categoria": "Coches",
+      "titulo": "Pintura llantas",
+      "descripcion": "Después",
+      "imagen": "/imagenes/whatsapp-image-2026-11-18-at-15.12.16-1-.jpeg"
     }
   ]
 }
