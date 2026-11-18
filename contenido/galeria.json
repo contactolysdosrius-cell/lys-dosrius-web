@@ -1,9 +1,376 @@
 {
   "trabajos": [
     {
+      "imagen": "/imagenes/galeria-antigua-01.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 6",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-02.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 7",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-03.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 13",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-04.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 15",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-05.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 16",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-06.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 17",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-07.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 18",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-08.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 19",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-09.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 26",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-10.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 27",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-11.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 32",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-12.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 33",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-13.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 34",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-14.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 35",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-15.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 37",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-16.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 38",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-17.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 39",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-18.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 40",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-19.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 41",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-20.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 42",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-21.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 43",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-22.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 44",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-23.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 45",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-24.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 46",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-25.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 47",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-26.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 55",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-27.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 56",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-28.jpg",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 59",
+      "descripcion": "",
+      "categoria": "Embarcaciones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-29.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 1",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-30.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 2",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-31.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 3",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-32.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 4",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-33.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 5",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-34.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 8",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-35.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 9",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-36.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 10",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-37.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 11",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-38.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 12",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-39.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 14",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-40.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 20",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-41.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 21",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-42.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 22",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-43.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 23",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-44.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 24",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-45.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 25",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-46.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 48",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-47.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 54",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-48.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 66",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-49.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 68",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-50.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 69",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-51.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches — fotografía 70",
+      "descripcion": "",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-52.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 28",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-53.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 29",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-54.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 30",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-55.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 31",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-56.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 36",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-57.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 49",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-58.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 50",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-59.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 51",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-60.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 52",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-61.jpg",
+      "titulo": "Trabajo de pintura y reparación: camiones — fotografía 53",
+      "descripcion": "",
+      "categoria": "Camiones"
+    },
+    {
       "imagen": "/imagenes/whatsapp-image-2026-11-18-at-10.43.47.jpeg",
       "titulo": "Pintura de pinzas de freno de automóvil",
-      "descripcion": ""
+      "descripcion": "",
+      "categoria": "Coches"
     }
   ]
 }
