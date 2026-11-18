@@ -3,7 +3,7 @@ backend:
   name: github
   repo: contactolysdosrius-cell/lys-dosrius-web
   branch: main
-
+  
 media_folder: "imagenes"
 public_folder: "/imagenes"
 
