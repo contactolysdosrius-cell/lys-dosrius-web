@@ -1,7 +1,7 @@
 
 backend:
-  name: github
-  repo: contactolysdosrius-cell/lys-dosrius-web
+  name: git-gateway
+  
   branch: main
   
 media_folder: "imagenes"
