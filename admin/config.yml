@@ -1,0 +1,34 @@
+
+backend:
+  name: github
+  repo: contactolysdosrius-cell/lys-dosrius-web
+  branch: main
+
+media_folder: "imagenes"
+public_folder: "/imagenes"
+
+locale: "es"
+
+collections:
+  - name: "galeria"
+    label: "Galería de trabajos"
+    files:
+      - name: "fotografias"
+        label: "Fotografías"
+        file: "contenido/galeria.json"
+        format: "json"
+        fields:
+          - label: "Trabajos realizados"
+            name: "trabajos"
+            widget: "list"
+            fields:
+              - label: "Título"
+                name: "titulo"
+                widget: "string"
+              - label: "Fotografía"
+                name: "imagen"
+                widget: "image"
+              - label: "Descripción"
+                name: "descripcion"
+                widget: "text"
+                required: false
