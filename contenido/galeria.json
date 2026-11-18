@@ -31,12 +31,6 @@
       "categoria": "Embarcaciones"
     },
     {
-      "imagen": "/imagenes/galeria-antigua-06.jpg",
-      "titulo": "Trabajo de pintura y reparación: embarcaciones ",
-      "descripcion": "",
-      "categoria": "Embarcaciones"
-    },
-    {
       "imagen": "/imagenes/galeria-antigua-07.jpg",
       "titulo": "Trabajo de pintura y reparación: embarcaciones ",
       "descripcion": "",
@@ -56,7 +50,7 @@
     },
     {
       "imagen": "/imagenes/galeria-antigua-10.jpg",
-      "titulo": "Trabajo de pintura y reparación: embarcaciones — fotografía 27",
+      "titulo": "Trabajo de pintura y reparación: embarcaciones ",
       "descripcion": "",
       "categoria": "Embarcaciones"
     },
