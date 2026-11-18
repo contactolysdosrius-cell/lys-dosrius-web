@@ -32,3 +32,12 @@ collections:
                 name: "descripcion"
                 widget: "text"
                 required: false
+
+              - label: "Categoría"
+                name: "categoria"
+                widget: "select"
+                options:
+                  - "Embarcaciones"
+                  - "Coches"
+                  - "Camiones"
+                default: "Embarcaciones"
