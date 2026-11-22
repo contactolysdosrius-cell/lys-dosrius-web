@@ -165,31 +165,31 @@
     {
       "imagen": "/imagenes/galeria-antigua-29.jpg",
       "titulo": "Trabajo de pintura y reparación: coches ",
-      "descripcion": "",
-      "categoria": "Coches"
-    },
-    {
-      "imagen": "/imagenes/galeria-antigua-30.jpg",
-      "titulo": "Trabajo de pintura y reparación: coches ",
-      "descripcion": "",
+      "descripcion": "Antes",
       "categoria": "Coches"
     },
     {
       "imagen": "/imagenes/galeria-antigua-31.jpg",
       "titulo": "Trabajo de pintura y reparación: coches ",
-      "descripcion": "",
-      "categoria": "Coches"
-    },
-    {
-      "imagen": "/imagenes/galeria-antigua-32.jpg",
-      "titulo": "Trabajo de pintura y reparación: coches ",
-      "descripcion": "",
+      "descripcion": "Antes",
       "categoria": "Coches"
     },
     {
       "imagen": "/imagenes/galeria-antigua-33.jpg",
       "titulo": "Trabajo de pintura y reparación: coches ",
-      "descripcion": "",
+      "descripcion": "Antes",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-30.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches ",
+      "descripcion": "Después",
+      "categoria": "Coches"
+    },
+    {
+      "imagen": "/imagenes/galeria-antigua-32.jpg",
+      "titulo": "Trabajo de pintura y reparación: coches ",
+      "descripcion": "Después",
       "categoria": "Coches"
     },
     {
